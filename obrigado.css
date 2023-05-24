@@ -1,0 +1,40 @@
+.navbar {
+    background: url(./image/fotoheader500.png);
+    padding-bottom: 28px;
+}
+
+.navbar img {
+    padding-top: 10px;
+}
+
+.center {
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 90px;
+}
+
+.center h1,
+p {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+p {
+    padding-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+input[type=submit]:hover {
+    background-color: #fff;
+    border: #078a69 1px solid;
+    color: #078a69;
+    font-weight: bold;
+}
